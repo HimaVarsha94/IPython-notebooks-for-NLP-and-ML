@@ -1,4 +1,4 @@
-This repository contains ipython tutorials for starters for
+This repository contains ipython tutorials for beginners for
 
 ### Dependency Pairs
 1. Extraction of dependency pairs of documents using spacy
